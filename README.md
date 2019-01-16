@@ -1,3 +1,3 @@
 # gal4o.github.io
-Software Technologies
-HTML + CSS + JavaScript
+Software Technologies 2018
+
