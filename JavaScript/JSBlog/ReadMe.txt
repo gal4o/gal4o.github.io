@@ -1,0 +1,1 @@
+Blog: JavaScript and MySQL
